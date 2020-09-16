@@ -7,3 +7,5 @@ Don't know what to wear? Just click the "dress me!" button and a cute outfit is 
 
 Currently, it can only be used from within Android Studio because images have to be added directly to the internal storage, but if I continue to develop this app, I will implement features that allow a mobile user to upload and store images on their phone. Also, I would add more clothing item options, as right now it is limited to shirts, bottoms, and shoes.
 
+<img width="351" alt="Screen Shot 2020-09-15 at 10 51 59 PM" src="https://user-images.githubusercontent.com/62198346/93298813-c7fc7980-f7a8-11ea-9b59-0b29fee93caf.png">
+
